@@ -1,5 +1,5 @@
 {
-  "name": "@jing.miao/verror-chain",
+  "name": "@alife/verror-chain",
   "version": "1.0.0",
   "description": "error chain wrapped around verror",
   "main": "dist/index.js",
