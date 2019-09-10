@@ -1,0 +1,28 @@
+{
+  "name": "@jing.miao/verror-chain",
+  "version": "1.0.0",
+  "description": "error chain wrapped around verror",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist/* && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ppublish": "npm publish --access public"
+  },
+  "author": "243127395@qq.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/verror": "^1.10.3",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "verror": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inter-action/verror-chain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inter-action/verror-chain/issues"
+  },
+  "homepage": "https://github.com/inter-action/verror-chain#readme"
+}
